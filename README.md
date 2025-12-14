@@ -2,6 +2,8 @@
 
 A multi-agent RAG (Retrieval-Augmented Generation) system powered by **CrewAI**, **Milvus**, and **OpenAI**. Upload documents and ask questions using natural language - AI agents will find relevant information and synthesize comprehensive answers.
 
+🌐 **Live Demo**: [https://document-knowledge-retrieval.streamlit.app/](https://document-knowledge-retrieval.streamlit.app/)
+
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)
 ![CrewAI](https://img.shields.io/badge/CrewAI-0.51+-green.svg)
